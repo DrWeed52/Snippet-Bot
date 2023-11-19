@@ -1,8 +1,6 @@
-#########################################################
-#						Instructions					#
-#		Snip-Bot Detection and Execution Bot/AI			#
-#					by R.O.Riesner						#
-#########################################################
+            Instructions
+Snip-Bot Detection and Execution Bot/AI
+            by R.O.Riesner
 
 # What is Snip-Bot:
 
