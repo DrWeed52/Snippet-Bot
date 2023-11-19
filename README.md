@@ -34,12 +34,17 @@ Key: space				| determens the key that the script simulates getting pressed
 # Template for "config.ini" :
 
 [Image1]
+
 Path: example_folder/example_file_1.png
+
 Action: click_location
 
 [Image2]
+
 Path: example_folder/example_file_2.png
+
 Action: button_press
+
 Key: space
 
 -end of template-
